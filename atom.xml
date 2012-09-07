@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[redradix]]></title>
   <link href="http://redradix.github.com/atom.xml" rel="self"/>
   <link href="http://redradix.github.com/"/>
-  <updated>2012-09-07T09:46:15+02:00</updated>
+  <updated>2012-09-07T10:23:54+02:00</updated>
   <id>http://redradix.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[redradix]]></name>
+    <email><![CDATA[info@redradix.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://redradix.github.com/blog/2012/09/07/hello-world/"/>
+    <updated>2012-09-07T09:59:00+02:00</updated>
+    <id>http://redradix.github.com/blog/2012/09/07/hello-world</id>
+    <content type="html"><![CDATA[<p>So here we are. We have finally pushed ourselves to write some things that we find interesting but that could get forgotten. This will serve as our thinking pad and sketching board, so you know what we are actually doing!</p>
+
+<blockquote><p>The key to performance is elegance, not battalions of special cases.<br/>- Jon Bentley and Doug McIlroy</p></blockquote>
+
+
+
+
+<blockquote><p>Don&#8217;t worry about what anybody else is going to do. The best way to predict the future is to invent it.<br/>- Alan Kay</p></blockquote>
+
+]]></content>
+  </entry>
   
 </feed>
